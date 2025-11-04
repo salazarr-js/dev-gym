@@ -1,4 +1,4 @@
-# [🧙 El códice de Arkanus](https://midu.dev/retos/30-dias-de-javascript/el-codice-de-arkanus)
+# 🧙 El códice de Arkanus
 
 Naira, una aprendiz de hechicera, ha encontrado un antiguo códice en las ruinas de Arkanus. Este códice está lleno de símbolos arcanos que, según los manuscritos, ocultan un poderoso conjuro olvidado. Para descifrar el conjuro, debe interpretar correctamente los símbolos según un antiguo sistema numérico mágico.
 
@@ -40,7 +40,7 @@ decodeSpell('⚕.♒') // NaN
 ---
 
 <details>
-  <summary>SOLUTION</summary>
+  <summary>Solution</summary>
   
 ```ts
 function decodeSpell(spell: string) {
