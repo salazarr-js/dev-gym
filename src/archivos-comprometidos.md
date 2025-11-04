@@ -30,4 +30,6 @@ getCompromisedFiles(lastSafeDownload, droneLogs) // => [8, 42]
 - Devuelve un array vacío si no hay archivos comprometidos.
 - El resultado debe estar ordenado de forma ascendente.
 
+---
+
 > https://midu.dev/retos/30-dias-de-javascript/archivos-comprometidos
