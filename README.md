@@ -20,6 +20,7 @@ Links to the original problems and inspirations:
 - [Test Dome](https://www.testdome.com)
 - [Midu Dev](https://midu.dev/retos)
 - [Retos de Programacion](https://retosdeprogramacion.com/)
+- [Exercism](https://github.com/exercism/javascript)
 
 ## 🚀 Coming soon
 
