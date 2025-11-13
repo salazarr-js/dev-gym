@@ -22,6 +22,7 @@ Links to the original problems and inspirations:
 - [AdventJs](https://adventjs.dev)
 - [Retos de Programacion](https://retosdeprogramacion.com/)
 - [Exercism](https://github.com/exercism/javascript)
+- [CheckiO](https://js.checkio.org/)
 
 ## 🚀 Coming soon
 
