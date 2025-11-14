@@ -33,7 +33,6 @@ Links to the original problems and inspirations:
 
 ## Doc Builder
 - https://vitepress.dev/
-
 - https://docusaurus.io/
 - https://nextra.site/
 - https://rspress.rs/
